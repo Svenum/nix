@@ -57,7 +57,7 @@
     };
 
     fw-fanctrl = {
-      url = "github:Svenum/fw-fanctrl/add-flake";
+      url = "github:Svenum/fw-fanctrl/try";
       inputs.nixpkgs.follows = "nixpkgs-stable";
     };
   };
